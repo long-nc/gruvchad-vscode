@@ -1,7 +1,8 @@
 {
     "name": "gruvchad",
-    "displayName": "gruvchad",
+    "displayName": "Gruvchad",
     "description": "Ported gruvchad theme from nvchad",
+    "publisher": "Koujir",
     "version": "0.0.1",
     "repository": {
         "type": "git",
