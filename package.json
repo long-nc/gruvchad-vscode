@@ -1,0 +1,33 @@
+{
+    "name": "gruvchad",
+    "displayName": "gruvchad",
+    "description": "Ported gruvchad theme from nvchad",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/long-nc/gruvchad-vscode"
+    },
+    "license": "MIT",
+    "keywords": [
+        "gruvchad",
+        "gruvchad-vscode",
+        "gruvchad-theme",
+        "gruvchad-extension",
+        "extension",
+        "vscode",
+        "theme"
+    ],
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Gruvchad",
+            "uiTheme": "vs-dark",
+            "path": "./themes/gruvchad-color-theme.json"
+        }]
+    }
+}
