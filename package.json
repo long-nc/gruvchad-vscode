@@ -2,6 +2,7 @@
     "name": "gruvchad",
     "displayName": "Gruvchad",
     "description": "Ported gruvchad theme from nvchad",
+    "icon": "images/icon.png",
     "publisher": "Koujir",
     "version": "0.0.1",
     "repository": {
